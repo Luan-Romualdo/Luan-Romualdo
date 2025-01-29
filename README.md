@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🛠  Tech Stack</p>
+<p align="left">🛠  Pilha de tecnologia</p>
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋, Eu sou Luan Gabriel<br>🔭 Atualmente estou estudando na IES - Faculdades Integradas Iesgo<br><br>💬 Pergunte-me sobre HTML, CSS, JavaScript</h2>
+<h2 align="left">Oi 👋, Eu sou Luan Gabriel<br>🔭 Atualmente estou estudando Sistema da informação(BSI) na IES - Faculdades Integradas Iesgo<br></h2>
 
 ###
 
